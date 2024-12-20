@@ -1,0 +1,6 @@
+Day,Weather,Classes,Special_Events,Attendance_Rate,Student_Count,Student_Count_Last_Week
+Sunday,good,On,None,0.3860730161,71,78
+Monday,good,On,Exam,0.6798906624,85,73
+Tuesday,bad,On,Festival,0.8502327556,70,57
+Wednesday,good,Off,None,0.4469019648,62,73
+Thursday,bad,Off,None,0.4906429648,61,31
